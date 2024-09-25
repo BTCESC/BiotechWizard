@@ -19,9 +19,9 @@ My personal motivation is to streamline scientific research and make it more acc
 
 The AI consultant will be used in research laboratories and academic institutions. Researchers can upload their protocols, design experiments, and discuss results with the AI. The AI will compare the results with a vast database of scientific articles, providing rapid insights and suggestions.
 
-![Laboratory](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Laboratory](https://deepdreamgenerator.com/storage/fast_queue/temp_images/0f0dfb6ab22172124f82d3f50f5320b88f963211.jpg)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="(https://deepdreamgenerator.com/storage/fast_queue/temp_images/0f0dfb6ab22172124f82d3f50f5320b88f963211.jpg)" width="300">
 
 
 ## Data sources and AI methods
