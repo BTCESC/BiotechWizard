@@ -1,4 +1,4 @@
-# Scientific AI Consultant
+# BiotechWizard
 
 Final project for the Building AI course
 
